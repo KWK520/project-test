@@ -1,0 +1,26 @@
+{
+    "user_id": "wonikim",
+    "baskets": [
+
+    
+     {
+        "num": 6,
+        "title": "레지아노치즈",
+        "cnt": 5,
+        "price": 12000,
+        "total": 60000
+    },{
+        "num": 2,
+        "title": "직화 후랑크 오리지널 250g 2개입",
+        "cnt": 4,
+        "price": 6980,
+        "total": 27920
+    },{
+        "num": 4,
+        "title": "삼립호빵 4개입",
+        "cnt": 2,
+        "price": 5400,
+        "total": 10800
+    }]
+    
+}
